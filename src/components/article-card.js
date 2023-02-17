@@ -39,7 +39,7 @@ ArticleCard.defaultProps = {
   avatar_src: '15958451-f790-4024-a70e-cc38b82637f2',
   name: 'Laura Hanks',
   new_prop: 'Portofino one of the best for remote working',
-  image_src: 'https://play.teleporthq.io/static/svg/placeholders/no-image.svg',
+  image_src: '',
   time: 'Published 3 days ago',
   avatar_alt: 'avatar',
   description:
