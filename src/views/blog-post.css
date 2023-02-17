@@ -16,7 +16,6 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-start;
-  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
 }
 .blog-post-fixed-header {
   width: 100%;
